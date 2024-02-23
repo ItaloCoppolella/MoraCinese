@@ -15,7 +15,7 @@ public class MorraCinese {
 
 	private Scanner tastiera;
 	
-	public MoreaCinese() {
+	public MorraCinese() {
 		this.tastiera = new Scanner(System.in);
 		this.mosse = new String[] {"Sasso", "Carta", "Forbice"};
 	}
