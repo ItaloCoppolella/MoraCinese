@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MoraCinese {
+public class MorraCinese {
 
 	private String[] mosse;
 	
