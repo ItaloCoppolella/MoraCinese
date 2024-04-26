@@ -14,6 +14,8 @@ public class MorraCinese {
 
 
 	private Scanner tastiera;
+
+	private Random random = new Random();
 	
 	public MorraCinese() {
 		this.tastiera = new Scanner(System.in);
@@ -49,7 +51,7 @@ public class MorraCinese {
 
 
 	public void GeneraMossaCpu() {
-		indiceCasuale = (int) (Math.random() * mosse.length);
+		indiceCasuale = random.nextInt();
 		sceltaCpu = mosse[indiceCasuale];
 	}
 
