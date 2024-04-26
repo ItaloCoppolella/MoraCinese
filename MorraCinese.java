@@ -51,7 +51,7 @@ public class MorraCinese {
 
 
 	public void GeneraMossaCpu() {
-		indiceCasuale = random.nextInt();
+		indiceCasuale = random.nextInt(3);
 		sceltaCpu = mosse[indiceCasuale];
 	}
 
