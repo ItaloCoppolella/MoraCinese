@@ -8,35 +8,7 @@ Questo progetto implementa un gioco di Morra Cinese dove l'utente gioca contro i
 
 ## Requisiti
 
-- Java Development Kit (JDK) 8 o superiore
-
-## Installazione
-
-1. Clona questa repository:
-
-    ```sh
-    git clone https://github.com/tuo-username/MorraCinese.git
-    ```
-
-2. Naviga nella directory del progetto:
-
-    ```sh
-    cd MorraCinese
-    ```
-
-## Utilizzo
-
-1. Compila i file Java:
-
-    ```sh
-    javac Main.java MorraCinese.java
-    ```
-
-2. Esegui il programma:
-
-    ```sh
-    java Main
-    ```
+    Java Development Kit (JDK) 8 o superiore
 
 ## Struttura del Progetto
 
