@@ -26,4 +26,4 @@ Questo progetto implementa un gioco di Morra Cinese dove l'utente gioca contro i
 
 ## Contributi
 
-I contributi sono benvenuti! Se hai idee o suggerimenti sentiti libero di aprire una pull request oppure di segnalarmi un problema.
+I contributi sono benvenuti! Se hai idee o suggerimenti sentiti libero di aprire una pull request oppure di scrivermi su <a href="https://www.linkedin.com/in/italocoppolella-java/" target="_blank">linkedin</a>
